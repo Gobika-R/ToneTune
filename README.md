@@ -201,6 +201,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Made with ❤️ and ☕ by [Your Name]**
+**Made with ❤️ and ☕ by GOBIKA R**
 
 *Transform your communication with AI-powered tone adjustment!*
